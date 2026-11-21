@@ -1,0 +1,35 @@
+# Story-to-Video Skill: The Mountain Stonebreaker (MiniMax Image-to-Video)
+
+## System Role & Style Guidelines
+- **Genre:** Emotional social drama, moral lesson on honoring parents and parental sacrifice.
+- **Visual Style:** Cinematic realistic live-action, natural harsh sunlight in mountain scenes, moody twilight/evening lighting in urban/road scenes, shallow depth of field, high emotional micro-expressions, no cartoon or stylized artifacts.
+- **Aspect Ratio & Motion:** 16:9, smooth controlled camera movement (slow push-in, tracking shot, subtle handheld realism), consistent protagonist appearance (exhausted middle-aged father in dusty work clothes, worn boots, holding a small worn photo).
+- **Audio & Dialogue Direction:** Clear emotional ambient soundscape (pickaxe hitting rock, wind, distant traffic, sirens) + concise Arabic dialogue/voice cues where specified.
+
+---
+
+## Shot-by-Shot Prompts for MiniMax AI (Image to Video)
+
+### Shot 1: Harsh Labor in the Mountain
+- **Visual Prompt:** Cinematic realistic shot of an exhausted middle-aged Arab father in dusty clothes swinging a heavy pickaxe to break hard rocks on a sun-baked rocky mountain under scorching midday sun. Sweat on his face, dust rising, dry mountain terrain in background. Slow tracking medium shot, realistic motion, natural harsh sunlight.
+- **Audio / Voice:** Sound of heavy metal pickaxe striking rock and dry wind. Low breath of exhaustion.
+
+### Shot 2: The Two Photographs
+- **Visual Prompt:** Close-up realistic shot of the father sitting on a rock during a brief break, holding a small worn photograph of his children in his calloused hand, then gently pulling out a second small photo of his late wife. Subtle camera push-in, dust particles in sunlight, quiet sorrowful expression.
+- **Audio / Voice:** Soft wind ambience, quiet heartbeat-like pause, gentle sigh.
+
+### Shot 3: The Phone Call & Silent Tear
+- **Visual Prompt:** Medium close-up realistic shot of the father answering a call on a simple phone while sitting on the rocky mountain under bright sun. His expression shifts from fatigue to gentle warmth as he listens, a single tear forms in his eye without falling. Slow push-in, cinematic depth of field.
+- **Audio / Voice:** Phone call audio—children's impatient voice asking: "بابا اشري لنا البلايستيشن". Father replies warmly: "معليش، نعم يا ولادي". Quiet inner whisper/thought: "مهما كان هذول ولادي... هذا واش قعد لي بعد مرتي".
+
+### Shot 4: Returning Exhausted & The Reproach
+- **Visual Prompt:** Realistic medium shot inside a modest home in the evening. The tired father returns home covered in dust, looking worn out and forgetful from heat and exhaustion, while his children confront him with annoyed, frustrated expressions. Natural indoor evening light, subtle handheld camera movement.
+- **Audio / Voice:** Children's frustrated voices: "ياخي قلنا لك جيب لنا البلاي، ما تقولناش غدوة... نحتاجوك دركا ترجع وتجيبها لنا".
+
+### Shot 5: Walking Out & The Traffic Accident
+- **Visual Prompt:** Cinematic realistic tracking shot of the father walking on foot along a road at dusk with no car, carrying a shopping bag containing a PlayStation in his right hand and holding his children's photo in his left hand. Suddenly a speeding car veers into him on the road. Dramatic lighting, tense motion, realistic impact framing.
+- **Audio / Voice:** Footsteps on asphalt, evening street ambience, sudden screech of tires and impact sound.
+
+### Shot 6: Aftermath & The Children's Arrival
+- **Visual Prompt:** Somber realistic wide-to-medium shot at the scene after the accident at night, flashing blue-and-red police lights in the distance. The father lies motionless on the ground, his left hand still holding his children's photo and his right hand holding the shopping bag with the PlayStation. His children arrive running, shocked and grieving as they see what is in his hands. Slow dolly movement, deeply emotional atmosphere.
+- **Audio / Voice:** Distant police siren, police officer speaking solemnly: "يا ودي راه باباكم داير حادث، أرواحوا شوفوه". Children's gasps and cries of regret: "بابا...".
